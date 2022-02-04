@@ -1,6 +1,6 @@
 https://8thlight.com/blog/mike-knepper/2021/05/11/minimally-privileged-terraform.html
 https://www.bogotobogo.com/DevOps/Terraform/Terraform_AWS_sts_AssumeRole_Cross_Account.php
-
+https://skundunotes.com/2021/09/26/strengthen-security-posture-with-terraform-and-aws-iam-to-manage-aws-cloud-resources/
 
 * AWS Assume Role
 
