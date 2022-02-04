@@ -1,3 +1,5 @@
+https://8thlight.com/blog/mike-knepper/2021/05/11/minimally-privileged-terraform.html
+
 * AWS Assume Role
 
 1. Create User
