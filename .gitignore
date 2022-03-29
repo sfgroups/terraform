@@ -1,4 +1,5 @@
 /.idea/*
+/docker/.idea/*
 # Local .terraform directories
 **/.terraform/*
 
@@ -28,3 +29,9 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+.gradle
+build
+target
+.idea
+*.iml
+.DS_Store
